@@ -1,0 +1,4 @@
+PORT = 5050
+HEADER = 64
+FORMAT = "utf-8"
+DISCONNECT_MESSAGE = "!byebye"
